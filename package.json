@@ -401,7 +401,7 @@
     "pickleparser": "^0.1.0",
     "playwright": "^1.32.1",
     "prettier": "^2.8.3",
-    "puppeteer": "^19.7.2",
+    "puppeteer": "^20.2.1",
     "redis": "^4.6.6",
     "release-it": "^15.10.1",
     "replicate": "^0.9.0",
